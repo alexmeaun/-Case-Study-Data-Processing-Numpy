@@ -31,4 +31,4 @@ Loan data we are given, is a sample from a larger dataset that belongs to an aff
 -If the information isn't available, we'll assume the worst, where 'worst' depends from column to column
 
 
-The data, along with the case study is provided by https://learn.365datascience.com/courses/data-preprocessing-numpy/course-introduction/
+The data, along with the case study is provided by [365DataScience] (https://learn.365datascience.com/courses/data-preprocessing-numpy/course-introduction/)
